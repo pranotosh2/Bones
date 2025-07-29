@@ -1,2 +1,2 @@
-# Bones
+# Bones Analysis
 Skeletal Variation
